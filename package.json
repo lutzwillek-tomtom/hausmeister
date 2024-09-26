@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/FRosner/hausmeister#readme",
   "dependencies": {
-    "@slack/bolt": "^3.12.2",
+    "@slack/bolt": "^3.21.4",
     "parse-duration": "^1.0.2"
   }
 }
